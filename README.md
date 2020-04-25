@@ -1,3 +1,3 @@
-# REACT BASIC
+# React Basic
 
-Projeto simples de React com uma requisição de uma api.
+Projeto simples em React com uma requisição de uma api.
